@@ -1,2 +1,2 @@
 # TYTMATCOZUCU
-Education project.
+Proje dosyaları yakında eklenecektir.
