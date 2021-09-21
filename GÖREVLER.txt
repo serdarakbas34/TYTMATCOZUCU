@@ -7,3 +7,5 @@
 -- Burak DEMİRBAĞ : Yaş Problemleri
 
 -- Abdullah ALA : Projenin Android Cihaz Uyumlu Programının Yapılması
+
+--Sefa KARAMAN : Rasyonel sayı / sayı kümeleri
