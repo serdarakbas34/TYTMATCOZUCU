@@ -1,0 +1,11 @@
+--Öncelikle bu projede öğrencilerin yaşadığı sıkıntıları biraz da olsa azaltmak ,soru tiplerini çözerken sistematik bir 
+  bakış açısıyla sorulara yaklaşımını sağlamak ve yaşadıkları sınav streslerini bir nebze gidermek amacı hedeflenmektedir. 
+--Bu süreçte 6 kişilik bir geliştirme ekibi kuruldu ve yol haritası belirlendi. 
+--Gerekli araştırmalar yapılacak ve ekip üyelerine görev paylaşımı yapılacak. 
+--Burada hedef 2017 - 2021 yılları arasında çıkmış tyt matematik soruları konu başlıkları altında ele alınıp; soruların 
+  çözüm mantığından yola çıkarak benzer mantıktaki soruların çözümünü sağlayabilecek bir proje gerçekleştirilecektir.
+--Bu aşamada öncelikle çıkmış sorular toplanacak ve ilgili konu başlıklarına göre ayrıştırılacaktır. 
+--Ekip üyeleri arasında 5 kişi için; kişi başına 2 konu düşecek şekilde görev paylaşımı gerçekleştirilecektir.
+--Ardından ilgili görevlerini alan ekip üyeleri konuları ile ilgili gerekli araştırma ve analizler gerçekleştirmesi gerekecektir. 
+--Çalışmalar sonucu ilgili konulara ilişkin çıkmış sorular yıl bazlı olarak ele alınıp çözüm mantığını modelleyen akış şemaları çıkarılacaktır. 
+

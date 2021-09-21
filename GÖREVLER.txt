@@ -1,0 +1,9 @@
+-- Serdar AKBAŞ : Fonksiyonlar  --> EKİP LİDERİ
+
+-- Reşit AKIN:  Mutlak Değer
+
+-- Burak ÇOKAN : Üslü İfadeler 
+
+-- Burak DEMİRBAĞ : Yaş Problemleri
+
+-- Abdullah ALA : Projenin Android Cihaz Uyumlu Programının Yapılması
