@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_menu_uslu_sayilar"
+        android:icon="@drawable/ic_baseline_keyboard_arrow_right_24"
+        android:title="Üslü Sayılar">
+    </item>
+    <item
+        android:id="@+id/nav_menu_fonksiyonlar"
+        android:icon="@drawable/ic_baseline_keyboard_arrow_right_24"
+        android:title="Fonksiyonlar"
+        >
+    </item>
+    <item
+        android:id="@+id/nav_menu_yas_problemleri"
+        android:icon="@drawable/ic_baseline_keyboard_arrow_right_24"
+        android:title="Yaş problemleri">
+    </item>
+</menu>
